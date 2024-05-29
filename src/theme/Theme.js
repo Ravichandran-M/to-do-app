@@ -4,6 +4,7 @@ const darkTheme = {
   txt_primary: "#D9D9D9",
   txt_secondary: "#F2F2F2",
   bg: "#4f4f5b",
+  btn: "#4648b9",
 };
 
 export { darkTheme };

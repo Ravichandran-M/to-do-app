@@ -72,7 +72,7 @@ export const Btn = styled.button`
   color: ${({ theme }) => theme.txt_secondary};
   border-radius: 0.4rem;
   &:hover {
-    background-color: #4648b9;
+    background-color: ${({ theme }) => theme.btn};
   }
 `;
 
